@@ -4,10 +4,6 @@
 
 cocot46 is a column staggered keyboard with 46 keys, a trackball and a rotary encoder.
 
-
-TBD
-
-
 [Firmware](https://github.com/aki27kbd/qmk_firmware/tree/master/keyboards/cocot46)
 
 [Build Guide](https://github.com/aki27kbd/cocot46/blob/main/doc/buildguide.md)
