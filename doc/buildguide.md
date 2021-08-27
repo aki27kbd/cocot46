@@ -16,7 +16,8 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 |ボトムプレート（アクリル）|1枚||
 |トラックボールカバープレート（FR4）|1枚||
 |トラックボール固定プレート（FR4）|1枚||
-|M2 スペーサー 8mm（メス―メス）|15本|寸法がシビアなため付属以外のものではプレートと干渉する可能性あり|
+|M2 スペーサー 8mm（メス―メス）|11本|寸法がシビアなため付属以外のものではプレートと干渉する可能性あり|
+|M2 スペーサー 7mm（メス―メス）|4本||
 |M2 スペーサー 8mm（メス―オス）|4本||
 |M2 ねじ 4mm|30本||
 
@@ -60,11 +61,11 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
   〇付属品表面
 
-  ![cocot46_bg_00_1](https://user-images.githubusercontent.com/88039287/130642806-82239b62-664f-4745-9cc1-b63a484eaa59.jpg)
+  ![cocot46_bg_00_1](https://user-images.githubusercontent.com/88039287/131105567-73eda270-b10d-4c8a-a571-b01e3da3070e.jpg)
 
   〇付属品裏面
 
-  ![cocot46_bg_00_2](https://user-images.githubusercontent.com/88039287/130642850-439b2110-8a96-4b5a-aecd-b594455c508b.jpg)
+  ![cocot46_bg_00_2](https://user-images.githubusercontent.com/88039287/131105664-c0717bb6-ff4b-4e9a-80e2-2cc333f1a82f.jpg)
 
   その他上述の「キット以外に必要なもの」および「オプション部品」を揃えた上で組み立てに取り掛かってください。
 
@@ -173,7 +174,7 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
   ![cocot46_bg_09_assembly_5](https://user-images.githubusercontent.com/88039287/130784491-cda776ca-77b0-446a-a578-57eecee166f6.jpg)
 
-  トラックボールを写真のように固定し、スペーサー（メス―メス）でトラックボール固定プレートを固定します。
+  トラックボールを写真のように固定し、スペーサー 7mm（メス―メス）でトラックボール固定プレートを固定します。**スペーサ― 8mm（メス―オス）と同封されている短い方のスペーサ―をお使いください。**
 
   ![cocot46_bg_09_assembly_6](https://user-images.githubusercontent.com/88039287/130784685-39ba0ab4-d931-446b-aa44-442c5501a785.jpg)
 
@@ -181,7 +182,7 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
   ![cocot46_bg_09_assembly_7](https://user-images.githubusercontent.com/88039287/130784863-92cadb26-416c-46b3-9eda-184f803ec7f6.jpg)
 
-  ボトムプレートにスペーサーをねじ止めします。写真のように、上から見たときにリセットスイッチの穴の部分が左になるように固定します。赤丸の4箇所はオプションのアクリル積層ケースを組み立てる際に使用するものなので、無視してください。
+  ボトムプレートに**スペーサー 8mm（メス―メス）**をねじ止めします。写真のように、上から見たときにリセットスイッチの穴の部分が左になるように固定します。赤丸の4箇所はオプションのアクリル積層ケースを組み立てる際に使用するものなので、無視してください。
 
   ![cocot46_bg_09_assembly_8](https://user-images.githubusercontent.com/88039287/130785207-594bdb99-de80-4699-8c12-765f67f789f7.jpg)
 
@@ -207,18 +208,21 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
   シリコンシートのカッティング補助用に、[こちら](https://github.com/aki27kbd/cocot46/blob/main/doc/cocot46_silicon.pdf?raw=true)のシートをダウンロードし、**拡大率100%** で印刷してください。用紙に合わせて印刷してしまうとキースイッチの位置がずれてしまうのでご注意ください。
   印刷した型紙に、保護シートをはがしたシリコンシートを貼り付けます。ねじ部分は後からカットすることが難しいので、この状態で赤い部分のみカットしておきます。デザインナイフやカッターナイフ（30度刃）がカットしやすいと思います。
+
   ![cocot46_bg_10_middleplate_2](https://user-images.githubusercontent.com/88039287/130648308-ddf3674a-893e-4545-9321-22481a59c4da.jpg)
 
   赤い部分をカットし終わったら、キースイッチの位置が合うようにミドルアクリルプレート（上）をシリコンシートの上に置き、外形（青線）とキースイッチ部分（灰色線）をカットしていきます。
-  カットが終わった状態です。気泡が残っている場合は指で軽く押し出してください。
 
   ボトムプレート、ミドルプレート（下）PCB、ミドルプレート（上）、トッププレートの順に重ねます。
+
   ![cocot46_bg_10_middleplate](https://user-images.githubusercontent.com/88039287/130785781-7379371b-4250-44ac-9607-b6eaacc8f82e.jpg)
 
   ミドルプレートを装着する場合は、赤丸の部分に8mmのねじを用いてボトムプレートから直接PCB越しにスペーサーにねじ止めします。
+
   ![cocot46_bg_10_middleplate_3](https://user-images.githubusercontent.com/88039287/130786145-61ae336f-8697-4be1-baa6-329f61732c3d.jpg)
 
   ミドルプレートを装着した場合の側面です。全体の剛性が増し、シリコンシートによって柔らかい打鍵感になります。隙間がなくなるので打鍵音も改善されます。
+
   ![cocot46_bg_10_middleplate_4](https://user-images.githubusercontent.com/88039287/130786227-e414efee-9b78-4da8-b7c5-9e65659057dd.jpg)
 
 ## ファームウェア
@@ -226,7 +230,9 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 トラックボールを操作する手によって、2種類ファームウェアを用意しております。
 
 [右手用](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_right.zip?raw=true)
+
 [左手用](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_left.zip?raw=true)
+
 .hexファイルをQMK ToolboxなどでProMicroに書き込めば、以降[ReMap](https://remap-keys.app/configure)でキーマップを変更することが可能です。
 
 ![remap](https://user-images.githubusercontent.com/88039287/130786498-4202abef-06bf-4c86-a5e6-c8a95990caf2.jpg)
@@ -235,5 +241,7 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
 ## 終わりに
 何かトラブルがあれば[Twitterアカウント](https://twitter.com/aki27kbd)までご連絡ください。
+
 また、完成写真をSNSにアップいただけるととても励みになります。
+
 ハッシュタグは #cocot46 です。
