@@ -114,9 +114,10 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
 ### 6. アンダーグロウLED（オプション）
 
-  オプションでアンダーグロウLEDのはんだ付けを行います。PCBのシルク上の角の部分と、LEDの三角に欠けている部分の向きが揃うようにはんだ付けしてください。LEDは非常に熱に弱いので、はんだごての温度を低めに設定し、一か所はんだ付けをしたら十分時間をおいてから次のはんだ付けを行いましょう。
+  オプションでアンダーグロウLEDのはんだ付けを行います。PCBのシルク上の角の部分と、LEDの三角に欠けている部分の向きが揃うようにはんだ付けしてください。LEDは非常に熱に弱いので、はんだごての温度を低めに設定し、一か所はんだ付けをしたら十分時間をおいてから次のはんだ付けを行いましょう。  
+  この段階で後述のファームウェアを準備し、LEDの点灯を一つずつ確認しながらはんだ付けを行うとミスの早期発見につながります。
 
-  ![cocot46_bg_06_led_1](https://user-images.githubusercontent.com/88039287/130644726-16b25668-8c1b-4de5-b3b8-9c93996fede7.jpg)
+  ![cocot46_bg_06_led_1](https://user-images.githubusercontent.com/88039287/131107120-fa2f57f8-0d3c-417c-a00a-f6e250911660.jpg)
 
   LEDは下の写真の順番で取り付けましょう。
 
@@ -150,7 +151,7 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 ### 9. 組み立て
 
   ProMicroをPCB表面に差し込みます。
-  この段階で後述のファームウェアを準備し、問題なく動作しているか確認することをおすすめします。
+  LEDを未実装の場合はこの段階で後述のファームウェアを準備し、問題なく動作しているか確認することをおすすめします。
 
   ![cocot46_bg_09_assembly_1](https://user-images.githubusercontent.com/88039287/130784074-3ca541e8-623d-4d13-92ac-c71e1d1d6b8b.jpg)
 
@@ -233,9 +234,11 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
 [左手用](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_left.zip?raw=true)
 
-.hexファイルをQMK ToolboxなどでProMicroに書き込めば、以降[ReMap](https://remap-keys.app/configure)でキーマップを変更することが可能です。
+.hexファイルをQMK ToolboxなどでProMicroに書き込めば、以降[ReMap](https://remap-keys.app/configure)でキーマップを変更することが可能です。トラックボール、LED含めて上記.hexファイルで確認いただけます。
 
 ![remap](https://user-images.githubusercontent.com/88039287/130786498-4202abef-06bf-4c86-a5e6-c8a95990caf2.jpg)
+
+組み立て段階で動作確認をする際も、ReMapのTest Matrix Modeを使うと便利です。
 
 ソースコードは[こちら](https://github.com/aki27kbd/qmk_firmware/tree/master/keyboards/cocot46)を参照ください。
 
