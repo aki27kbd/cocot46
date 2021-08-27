@@ -1,6 +1,6 @@
 # cocot46
 
-![cocot46_booth03](https://user-images.githubusercontent.com/88039287/130637928-ee4ec0b1-746c-44bc-af94-f6219fb71ba5.jpg)
+![cocot46_booth03](https://user-images.githubusercontent.com/88039287/131103703-9a1efbb5-504e-4667-9bc6-13818cbec8ee.jpg)
 
 cocot46 is a column staggered keyboard with 46 keys, a trackball and a rotary encoder.
 
@@ -8,9 +8,9 @@ cocot46 is a column staggered keyboard with 46 keys, a trackball and a rotary en
 
 [Build Guide](https://github.com/aki27kbd/cocot46/blob/main/doc/buildguide.md)
 
-![cocot46_booth01](https://user-images.githubusercontent.com/88039287/130638244-75bceb91-6e4b-4371-ac9f-02ae170a4a82.jpg)
+![cocot46_booth01](https://user-images.githubusercontent.com/88039287/131103546-73328830-9400-4792-ba90-3692e88d4f44.jpg)
 
-![cocot46_booth02](https://user-images.githubusercontent.com/88039287/130638300-a01545f2-6943-4bff-8a63-45249ccc65b9.jpg)
+![cocot46_booth02](https://user-images.githubusercontent.com/88039287/131103655-a9b713b9-8669-4ae2-98a4-ef01e4e9bf5e.jpg)
 
 ![cocot46_booth04](https://user-images.githubusercontent.com/88039287/130638361-c3bee112-151e-412b-911f-9e8b7081a2cc.jpg)
 
