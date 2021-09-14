@@ -250,6 +250,8 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
 ソースコードは[こちら](https://github.com/aki27kbd/qmk_firmware/tree/master/keyboards/cocot46)を参照ください。
 
+また、VIA用のjsonファイルは[こちら](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_via.json)を参照ください。
+
 ## 終わりに
 何かトラブルがあれば[Twitterアカウント](https://twitter.com/aki27kbd)までご連絡ください。
 
