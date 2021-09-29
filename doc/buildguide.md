@@ -56,7 +56,10 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
 ### オプション部品（アクリル積層ケース）
 
-アクリルは[遊舎工房](https://shop.yushakobo.jp/)などのレーザーカットサービスでお好きな色のアクリルプレートを発注することが可能です。
+アクリルは遊舎工房などのレーザーカットサービスでお好きな色のアクリルプレートを発注することが可能です。
+
+(2021/9/29追記)遊舎工房のキーボードアクリルプレートに[cocot46ミドルプレート](https://shop.yushakobo.jp/collections/services-auto/products/keyboard_acrylic_plate?variant=40952410407073)が追加されました！材料・色を選択するだけでミドルプレートのオーダーが可能となります。
+
 シリコンシートは[こちら](https://www.monotaro.com/p/3629/5253/)から購入可能です。
 
 |名前|数|備考|
@@ -231,8 +234,10 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
   |シリコンシート 厚さ0.5mm|1枚|[こちら](https://www.monotaro.com/p/3629/5253/)から購入可能|
   |M2ねじ 8mm|4本||
 
-  ※1 アクリルプレートは[こちらのデータ](https://github.com/aki27kbd/cocot46/blob/main/doc/cocot46_middle_plate.zip?raw=true)を用いて各自で用意ください。.aiデータは[遊舎工房のアクリルカットサービス](https://shop.yushakobo.jp/collections/services-auto/products/lasercut)に適合したデータ形式となっていますので、そのまま発注いただくことが可能です。
-  お好みのカラーで**厚さ3㎜・A4サイズ**を指定して発注するようにしてください。
+  ※1 アクリルプレートは、遊舎工房の[キーボードアクリルプレート](https://shop.yushakobo.jp/collections/services-auto/products/keyboard_acrylic_plate?variant=40952410407073)からお好みの材料・色を選択するだけでオーダーすることが可能です。
+
+  ご自身で用意いただく場合は[こちらのデータ](https://github.com/aki27kbd/cocot46/blob/main/doc/cocot46_middle_plate.zip?raw=true)を用いてください。お好みのカラーで**厚さ3㎜・A4サイズ**を指定して発注するようにしてください。
+
   ![cocot46_middle_A4](https://user-images.githubusercontent.com/88039287/130648054-da44450a-68ae-4e35-aa60-881c3b8859ee.jpg)
 
   シリコンシートのカッティング補助用に、[こちら](https://github.com/aki27kbd/cocot46/blob/main/doc/cocot46_silicon.pdf?raw=true)のシートをダウンロードし、**拡大率100%** で印刷してください。用紙に合わせて印刷してしまうとキースイッチの位置がずれてしまうのでご注意ください。
