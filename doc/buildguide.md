@@ -263,15 +263,18 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
 トラックボールを操作する手によって、2種類ファームウェアを用意しております。
 
-[右手用](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_right.zip?raw=true)
-
+[右手用](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_right.zip?raw=true)  
 [左手用](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_left.zip?raw=true)
 
-.hexファイルをQMK ToolboxなどでProMicroに書き込めば、以降[ReMap](https://remap-keys.app/configure)でキーマップを変更することが可能です。トラックボール、LED含めて上記.hexファイルで確認いただけます。
+[REMAP](https://remap-keys.app/catalog/rZnKrpVyZLRcMqKgEM7Z/firmware)からファームウェアのダウンロードおよびProMicroへの書き込みを行うことができます。キーマップは[こちら](https://remap-keys.app/configure)から更新可能です。  
+トラックボール、LED含めて上記.hexファイルで確認いただけます。
+
+（.hexファイルをQMK ToolboxなどでProMicroに書き込む従来の方法でも問題ありません。）
+
 
 ![remap](https://user-images.githubusercontent.com/88039287/130786498-4202abef-06bf-4c86-a5e6-c8a95990caf2.jpg)
 
-組み立て段階で動作確認をする際も、ReMapのTest Matrix Modeを使うと便利です。
+組み立て段階で動作確認をする際も、REMAPのTest Matrix Modeを使うと便利です。
 
 ソースコードは[こちら](https://github.com/aki27kbd/qmk_firmware/tree/master/keyboards/cocot46)を参照ください。
 
