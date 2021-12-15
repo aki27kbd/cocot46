@@ -1,0 +1,4 @@
+API version: 13
+Config version: 2
+Build from: bmp-0.10.2-19-gdd166a5a8b*
+Build Target: cocot46_default

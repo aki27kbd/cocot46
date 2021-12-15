@@ -1,0 +1,5 @@
+{"encoder":
+{"enabled":1,
+"definition":[
+{"pin":[7,8],"step":1,"action":[["ANY(24000)","ANY(24001)"], ["ANY(24000)","ANY(24001)"], ["ANY(24000)","ANY(24001)"], ["KC_NO","KC_NO"], ["KC_NO","KC_NO"]]}
+]}}

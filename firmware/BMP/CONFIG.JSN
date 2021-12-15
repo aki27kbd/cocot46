@@ -1,0 +1,14 @@
+{"config":{"version":2,
+"device_info":{"vid":"0xfeed","pid":"0x0000","name":"cocot46","manufacture":"aki27","description":""},
+"matrix":{"rows":4,"cols":14,"device_rows":4,"device_cols":7,"debounce":1,"is_left_hand":1,"diode_direction":4,"row_pins":[9,10,11,12],"col_pins":[20,19,18,17,16,15,14],
+"layout":[
+  1,  2,  3,  4,  5,  6, 13, 12, 11, 10,  9,  8,  0,
+ 15, 16, 17, 18, 19, 20, 27, 26, 25, 24, 23, 22,  0,
+ 29, 30, 31, 32, 33, 34,  7, 14, 41, 40, 39, 38, 37, 36,  0,
+ 45, 46, 47, 48, 35, 21, 49, 55, 54, 53, 52]},
+"mode":"SINGLE","startup":1,
+"peripheral":{"max_interval":20,"min_interval":10,"slave_latency":7},
+"central":{"max_interval":20,"min_interval":10,"slave_latency":0},
+"led":{"pin":1,"num":10},
+"keymap":{"locale":"US","use_ascii":0},
+"reserved":[0,0,15,3,0,0,0,0]}}
