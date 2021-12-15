@@ -280,6 +280,10 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
 また、VIA用のjsonファイルは[こちら](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_via.json)を参照ください。
 
+## 無線化
+
+BLE Micro Proを用いて無線接続するためには[こちら]()の手順を参照してください。
+
 ## 終わりに
 何かトラブルがあれば[Twitterアカウント](https://twitter.com/aki27kbd)までご連絡ください。
 
