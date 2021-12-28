@@ -141,6 +141,8 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
   ![cocot46_bg_06_led_2](https://user-images.githubusercontent.com/88039287/130645118-b605c2cd-e3ad-4596-83f3-7d9b20aa88a5.jpg)
 
+  v2基板ではトラックボール固定プレートにも1個LEDが追加されています。（合計11個）
+
   全てのパーツを付け終わった状態です。
 
   ![cocot46_bg_06_led_3](https://user-images.githubusercontent.com/88039287/130783780-602c0f55-8cb0-4651-846f-f4625658b9ff.jpg)
@@ -265,6 +267,7 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 
 [右手用](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_right.zip?raw=true)  
 [左手用](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_left.zip?raw=true)
+[右手用v2](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_v2.zip?raw=true)
 
 [REMAP](https://remap-keys.app/catalog/rZnKrpVyZLRcMqKgEM7Z/firmware)からファームウェアのダウンロードおよびProMicroへの書き込みを行うことができます。キーマップは[こちら](https://remap-keys.app/configure)から更新可能です。  
 トラックボール、LED含めて上記.hexファイルで確認いただけます。
