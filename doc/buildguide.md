@@ -266,7 +266,7 @@ cocot46は中央に1uトラックボールを備えていることが一つの�
 トラックボールを操作する手によって、2種類ファームウェアを用意しております。
 
 [右手用](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_right.zip?raw=true)  
-[左手用](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_left.zip?raw=true)
+[左手用](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_left.zip?raw=true)  
 [右手用v2](https://github.com/aki27kbd/cocot46/blob/main/firmware/cocot46_trackball_v2.zip?raw=true)
 
 [REMAP](https://remap-keys.app/catalog/rZnKrpVyZLRcMqKgEM7Z/firmware)からファームウェアのダウンロードおよびProMicroへの書き込みを行うことができます。キーマップは[こちら](https://remap-keys.app/configure)から更新可能です。  
