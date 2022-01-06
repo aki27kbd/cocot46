@@ -76,9 +76,10 @@ cocot46をBLE Micro Proを用いて無線化する際はこちらを参照して
 
   <details><summary>【v2基板の場合】</summary><div>
 
-  PCB上の写真の箇所に、6ピンコンスル―を挿し込みます。
+  PCB上の写真の箇所に、6ピンコンスル―を挿し込みます。  
+  BMP用の12ピンコンスル―は写真の赤い箇所に設置してください。
 
-  ![cocot46_bmp_04_v2](https://user-images.githubusercontent.com/88039287/147530095-867689dc-6981-483d-af28-fc40885a8362.jpg)
+  ![cocot46_bmp_04_v2_rev](https://user-images.githubusercontent.com/88039287/148387927-e90485e0-ab76-4d46-9d1b-d1beb1c16268.jpg)
 
   6ピンコンスル―を電池基板に通した上でスペーサ―の上に重ねます。
 
